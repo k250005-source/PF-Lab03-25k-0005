@@ -2,17 +2,16 @@
 # PF-Lab03-34
 
 ## My Information
-- **Name:** Junaid Aslam
-- **Roll Number:** 34
+- **Name:** Girdhari lal
+- **Roll Number:** 25k-0005
 
 ## My Interests
 1. Programming
-2. Learning new technologies
-3. Problem solving
+2. Watching Movies
+3. Listening Music
 
 ***This is my first GitHub repository!***
 
 ## Lab Tasks
 - C Programming exercises
 - GitHub practice
-- Markdown formatting
